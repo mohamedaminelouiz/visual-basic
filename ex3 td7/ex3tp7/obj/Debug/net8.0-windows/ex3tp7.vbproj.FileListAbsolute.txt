@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\ex3tp7\ex3tp7\bin\Debug\net8.0-windows\ex3tp7.exe
+C:\Users\hp\Documents\ex3tp7\ex3tp7\bin\Debug\net8.0-windows\ex3tp7.deps.json
+C:\Users\hp\Documents\ex3tp7\ex3tp7\bin\Debug\net8.0-windows\ex3tp7.runtimeconfig.json
+C:\Users\hp\Documents\ex3tp7\ex3tp7\bin\Debug\net8.0-windows\ex3tp7.dll
+C:\Users\hp\Documents\ex3tp7\ex3tp7\bin\Debug\net8.0-windows\ex3tp7.pdb
+C:\Users\hp\Documents\ex3tp7\ex3tp7\obj\Debug\net8.0-windows\ex3tp7.Form1.resources
+C:\Users\hp\Documents\ex3tp7\ex3tp7\obj\Debug\net8.0-windows\ex3tp7.vbproj.GenerateResource.cache
+C:\Users\hp\Documents\ex3tp7\ex3tp7\obj\Debug\net8.0-windows\ex3tp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\ex3tp7\ex3tp7\obj\Debug\net8.0-windows\ex3tp7.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\ex3tp7\ex3tp7\obj\Debug\net8.0-windows\ex3tp7.AssemblyInfo.vb
+C:\Users\hp\Documents\ex3tp7\ex3tp7\obj\Debug\net8.0-windows\ex3tp7.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\ex3tp7\ex3tp7\obj\Debug\net8.0-windows\ex3tp7.dll
+C:\Users\hp\Documents\ex3tp7\ex3tp7\obj\Debug\net8.0-windows\refint\ex3tp7.dll
+C:\Users\hp\Documents\ex3tp7\ex3tp7\obj\Debug\net8.0-windows\ex3tp7.pdb
+C:\Users\hp\Documents\ex3tp7\ex3tp7\obj\Debug\net8.0-windows\ex3tp7.genruntimeconfig.cache
+C:\Users\hp\Documents\ex3tp7\ex3tp7\obj\Debug\net8.0-windows\ref\ex3tp7.dll
