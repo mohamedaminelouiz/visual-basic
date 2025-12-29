@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\pressing\pressing\bin\Debug\net8.0-windows\pressing.exe
+C:\Users\hp\Documents\pressing\pressing\bin\Debug\net8.0-windows\pressing.deps.json
+C:\Users\hp\Documents\pressing\pressing\bin\Debug\net8.0-windows\pressing.runtimeconfig.json
+C:\Users\hp\Documents\pressing\pressing\bin\Debug\net8.0-windows\pressing.dll
+C:\Users\hp\Documents\pressing\pressing\bin\Debug\net8.0-windows\pressing.pdb
+C:\Users\hp\Documents\pressing\pressing\obj\Debug\net8.0-windows\pressing.Form1.resources
+C:\Users\hp\Documents\pressing\pressing\obj\Debug\net8.0-windows\pressing.vbproj.GenerateResource.cache
+C:\Users\hp\Documents\pressing\pressing\obj\Debug\net8.0-windows\pressing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\pressing\pressing\obj\Debug\net8.0-windows\pressing.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\pressing\pressing\obj\Debug\net8.0-windows\pressing.AssemblyInfo.vb
+C:\Users\hp\Documents\pressing\pressing\obj\Debug\net8.0-windows\pressing.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\pressing\pressing\obj\Debug\net8.0-windows\pressing.dll
+C:\Users\hp\Documents\pressing\pressing\obj\Debug\net8.0-windows\refint\pressing.dll
+C:\Users\hp\Documents\pressing\pressing\obj\Debug\net8.0-windows\pressing.pdb
+C:\Users\hp\Documents\pressing\pressing\obj\Debug\net8.0-windows\pressing.genruntimeconfig.cache
+C:\Users\hp\Documents\pressing\pressing\obj\Debug\net8.0-windows\ref\pressing.dll
