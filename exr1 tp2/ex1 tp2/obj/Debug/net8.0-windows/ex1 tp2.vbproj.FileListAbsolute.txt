@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\bin\Debug\net8.0-windows\ex1 tp2.exe
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\bin\Debug\net8.0-windows\ex1 tp2.deps.json
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\bin\Debug\net8.0-windows\ex1 tp2.runtimeconfig.json
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\bin\Debug\net8.0-windows\ex1 tp2.dll
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\bin\Debug\net8.0-windows\ex1 tp2.pdb
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\obj\Debug\net8.0-windows\ex1_tp2.Form1.resources
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\obj\Debug\net8.0-windows\ex1 tp2.vbproj.GenerateResource.cache
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\obj\Debug\net8.0-windows\ex1 tp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\obj\Debug\net8.0-windows\ex1 tp2.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\obj\Debug\net8.0-windows\ex1 tp2.AssemblyInfo.vb
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\obj\Debug\net8.0-windows\ex1 tp2.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\obj\Debug\net8.0-windows\ex1 tp2.dll
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\obj\Debug\net8.0-windows\refint\ex1 tp2.dll
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\obj\Debug\net8.0-windows\ex1 tp2.pdb
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\obj\Debug\net8.0-windows\ex1 tp2.genruntimeconfig.cache
+C:\Users\hp\Documents\ex1 tp2\ex1 tp2\obj\Debug\net8.0-windows\ref\ex1 tp2.dll
